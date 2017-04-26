@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
     Button btnDisplay;
     EditText etInput;
     ToggleButton tbtn;
-
+    //new changes
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
